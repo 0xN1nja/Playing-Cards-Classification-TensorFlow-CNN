@@ -1,5 +1,5 @@
 # Playing Cards Classifier
-A Model To Classify Playing Cards. Achieved 99.30% Accuracy And 69.91% Validation Accuracy
+A Model To Classify Playing Cards. Achieved 99.30% Accuracy And 69.91% Validation Accuracy. Time To Train : ~1.25 Hours
 # Author
 Abhimanyu Sharma, https://github.com/0xN1nja
 # Dataset I Used For This Model
